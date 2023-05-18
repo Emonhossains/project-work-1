@@ -1,0 +1,240 @@
+/*
+*Device: Most Of The Mobile Phones
+*Skin Resulations: 320px to 480px  
+*/
+@media ( min-width: 320px) and ( max-width: 480px){
+    /* css start */
+    .header{
+        width: auto;
+        height: auto;
+    }
+     .navbar-expand-lg .navbar-collapse{
+        display: none!important;
+    }
+    .abc{
+        padding: 0px;
+    }
+    .banner .n-top{
+
+    }
+    .img-top{
+        height: 35px;
+        width: 37px;
+    }
+    .p-top p{
+        font-size: 10px;
+    }
+    .inner-banner h1{
+        font-size: 31px;
+    }
+    .inner-banner p{
+        font-size: 9px;
+    }
+    .button-group .btn-primary{
+        padding: 8px 27px;
+        font-size: 11px;
+        margin-bottom: 0px;
+    }
+    .button-group .forby{
+        font-size: 12px;
+        margin-bottom: 100px;
+    }
+    .s h2{
+        text-align: left;
+    }
+    .s p{
+        text-align: left;
+    }
+    .st-title h4{
+        font-size: 30px;
+        text-align: left;
+    }
+    .p-haeder h2{
+        font-size: 30px;
+        margin-top: -45px;
+    }
+    .p-haeder p{
+        font-size: 11px;
+    }
+    .title h2{
+        font-size: 22px;
+    }
+    .title p{
+        font-size: 10px;
+    }
+    .people-title h2{
+        padding-top: 52px;
+    }
+    .acordionn{
+        width: auto;
+        margin-left: -40px;
+    }
+    .acordionn .content{
+        font-size: 10px;
+    }
+    .acordionn li{
+        margin-left: 35px;
+    }
+    /* css end */
+}
+
+/*
+*Device: Most Of The Low Resulation Tablets
+*Skin Resulations: 481px to 767px  
+*/
+@media ( min-width: 481px) and ( max-width: 767px){
+    /* css start */
+    .header{
+        width: auto;
+        height: auto;
+    }
+     .navbar-expand-lg .navbar-collapse{
+        display: none!important;
+    }
+    .abc{
+        padding: 0px;
+    }
+    .banner .n-top{
+
+    }
+    .img-top{
+        height: 35px;
+        width: 37px;
+    }
+    .p-top p{
+        font-size: 10px;
+    }
+    .inner-banner h1{
+        font-size: 31px;
+    }
+    .inner-banner p{
+        font-size: 9px;
+    }
+    .button-group .btn-primary{
+        padding: 8px 27px;
+        font-size: 11px;
+        margin-bottom: 0px;
+    }
+    .button-group .forby{
+        font-size: 12px;
+        margin-bottom: 100px;
+    }
+    .s h2{
+        text-align: left;
+    }
+    .s p{
+        text-align: left;
+    }
+    .st-title h4{
+        font-size: 30px;
+        text-align: left;
+    }
+    .p-haeder h2{
+        font-size: 30px;
+        margin-top: -45px;
+    }
+    .p-haeder p{
+        font-size: 11px;
+    }
+    .title h2{
+        font-size: 22px;
+    }
+    .title p{
+        font-size: 10px;
+    }
+    .people-title h2{
+        padding-top: 52px;
+    }
+    .acordionn{
+        width: auto;
+        margin-left: -40px;
+    }
+    .acordionn .content{
+        font-size: 10px;
+    }
+    .acordionn li{
+        margin-left: 35px;
+    }
+    /* css end */
+}
+
+/*
+*Device: Most Of The tablets, ipad, mini notebook
+*Skin Resulations: 768px to 1024px  
+*/
+@media ( min-width: 768px) and ( max-width: 1024px){
+     /* css start */
+     .header{
+        width: auto;
+        height: auto;
+    }
+     .navbar-expand-lg .navbar-collapse{
+        display: none!important;
+    }
+    .abc{
+        padding: 0px;
+        margin-right: 248px;
+    }
+    .banner .n-top{
+
+    }
+    .img-top{
+        height: 35px;
+        width: 37px;
+    }
+    .p-top p{
+        font-size: 10px;
+    }
+    .inner-banner h1{
+        font-size: 31px;
+    }
+    .inner-banner p{
+        font-size: 9px;
+    }
+    .button-group .btn-primary{
+        padding: 8px 27px;
+        font-size: 11px;
+        margin-bottom: 0px;
+    }
+    .button-group .forby{
+        font-size: 12px;
+        margin-bottom: 100px;
+    }
+    .s h2{
+        text-align: left;
+    }
+    .s p{
+        text-align: left;
+    }
+    .st-title h4{
+        font-size: 30px;
+        text-align: left;
+    }
+    .p-haeder h2{
+        font-size: 30px;
+        margin-top: -45px;
+    }
+    .p-haeder p{
+        font-size: 11px;
+    }
+    .title h2{
+        font-size: 22px;
+    }
+    .title p{
+        font-size: 10px;
+    }
+    .people-title h2{
+        padding-top: 52px;
+    }
+    .acordionn{
+        width: auto;
+        margin-left: -40px;
+    }
+    .acordionn .content{
+        font-size: 10px;
+    }
+    .acordionn li{
+        margin-left: 35px;
+    }
+    /* css end */
+}
